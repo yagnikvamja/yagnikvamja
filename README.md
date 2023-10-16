@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm YAGNIK VAMJA</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Front-end technologies**
 
 - 👨‍💻 Projects are available at [https://github.com/yagnikvamja](https://github.com/yagnikvamja)
 
 - 💬 Ask me about **SASS,Bootstrap and javascript**
 
-- 📫 How to reach me **yagnikvam22@gmail.com**
+- 📫 How to reach me **yagnikvamja22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
