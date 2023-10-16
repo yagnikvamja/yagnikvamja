@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm YAGNIK VAMJA</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<img align="center" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47c2yg3qyvtt418vs7p0gzz45i9wkeoh9yity3mwab&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="https://in.linkedin.com/in/yagnikvamja" height="30" width="40" />
+
 - 🌱 I’m currently learning **Front-end technologies**
 
 - 👨‍💻 Projects are available at [https://github.com/yagnikvamja](https://github.com/yagnikvamja)
