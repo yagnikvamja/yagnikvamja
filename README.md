@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YAGNIK VAMJA</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&size=25&duration=4200&pause=500&center=true&random=true&width=435&lines=Hey..!!+%F0%9F%91%8B;I'm+Yagnik+Vamja" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Front-end technologies**
