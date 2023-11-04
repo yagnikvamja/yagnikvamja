@@ -1,4 +1,7 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&size=25&duration=4200&pause=500&center=true&random=true&width=435&lines=Hey..!!+%F0%9F%91%8B;I'm+Yagnik+Vamja" alt="Typing SVG" /></a></h1>
+<div id="header" align="center">
+  <img src="[https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw](https://i.gifer.com/SsQa.gif)" width="360"/>
+</div>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agbalumo&size=25&duration=4200&pause=500&color=F9EAAC&center=true&random=true&width=435&lines=Hey..!!+%F0%9F%91%8B;I'm+Yagnik+Vamja" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Front-end technologies**
